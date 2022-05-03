@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **HTML5, PHP, CSS3, Javascript, HTTP Post Requests, Arduino and Raspberry Pi Ecosystems**
 
-- 📫 How to reach me **318roschlynnmichael0023@dbit.in**
-
 - 🏓 Hobbies are **music and audio production, video editing and gaming.**
 
 <h3 align="left">Connect with me:</h3>
