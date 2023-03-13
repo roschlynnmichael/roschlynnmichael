@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roschlynnmichael&label=Profile%20views&color=0e75b6&style=flat" alt="roschlynnmichael" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roschlynnmichael" alt="roschlynnmichael" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roschlynnmichael" alt="roschlynnmichael" /></a> </p> -->
 
 - 🌱 I’m currently learning **R Programming, Hadoop, DevOps**
 
